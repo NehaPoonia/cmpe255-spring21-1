@@ -1,0 +1,8 @@
+$11914 lines loaded
+RMSE for test data:  0.4571667881481371
+ engine_cylinders transmission_type    driven_wheels  number_of_doors       market_category vehicle_size vehicle_style  highway_mpg  city_mpg  popularity  msrp    msrp_pred
+              6.0         automatic rear_wheel_drive              3.0                   NaN      compact     cargo_van           20        15         549  2000  3923.599039
+             12.0         automatic rear_wheel_drive              2.0                luxury        large         coupe           15        11         617  3211 11828.258186
+              6.0         automatic  all_wheel_drive              4.0 crossover,performance      midsize         wagon           25        18        2031 31120 28294.805897
+              4.0         automatic rear_wheel_drive              4.0                luxury      midsize         sedan           26        18         870  2000  2344.066000
+              8.0         automatic rear_wheel_drive              4.0             flex_fuel        large         sedan           24        16        5657 29905 23235.242632
