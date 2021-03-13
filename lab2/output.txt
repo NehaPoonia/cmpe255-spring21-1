@@ -1,4 +1,5 @@
 $11914 lines loaded
+RMSE for test data:  0.735689488610866
  engine_cylinders transmission_type    driven_wheels  number_of_doors       market_category vehicle_size vehicle_style  highway_mpg  city_mpg  popularity  msrp    msrp_pred
               6.0         automatic rear_wheel_drive              3.0                   NaN      compact     cargo_van           20        15         549  2000  8748.213055
              12.0         automatic rear_wheel_drive              2.0                luxury        large         coupe           15        11         617  3211 26612.364042

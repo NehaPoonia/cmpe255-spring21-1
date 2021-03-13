@@ -91,6 +91,8 @@ class CarPrice:
         # test dataset
         X_test = self.prepare_X(df_test)
         y_test_pred = w_0 + X_test.dot(w)
+
+        print("RMSE for test data: ", self.rmse(y_test, y_test_pred))
        
         y_val_pred = np.expm1(y_val_pred)
         y_test_pred = np.expm1(y_test_pred)
